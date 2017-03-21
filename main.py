@@ -62,12 +62,12 @@ while(True):
     if inp[0]=='multitag':
         print "Mutitagging "
         autotag = types.FunctionType(marshal.loads(commands['autotag']), globals(), "something")
-
+        files = []
         for dirname, dirnames, filenames in os.walk(inp[1]):
             # print path to all filenames.
             for filename in filenames:
-                autotag([dirname + '\\' + filename])
-                print(dirname + '\\' + filename)
+                files.append(dirname + '\\' + filename)
+        autotag(files)
     elif(inp[0] in commands):
         func = types.FunctionType(marshal.loads(commands[inp[0]]), globals(), "something")
         #try:

@@ -59,21 +59,23 @@ while(True):
     inp = raw_input('tagfs#: ')
     inp = inp.strip()
     inp = inp.split(' ')
-    if inp[0]=='scandir':
-        scandir(inp[1:],func = types.FunctionType(marshal.loads(commands['autotag']), globals(), "something"))
+    if inp[0]=='multitag':
+        print "Mutitagging "
+        autotag = types.FunctionType(marshal.loads(commands['autotag']), globals(), "something")
+
+        for dirname, dirnames, filenames in os.walk(inp[1]):
+            # print path to all filenames.
+            for filename in filenames:
+                autotag([dirname + '\\' + filename])
+                print(dirname + '\\' + filename)
     elif(inp[0] in commands):
         func = types.FunctionType(marshal.loads(commands[inp[0]]), globals(), "something")
         #try:
-        if(len(inp)>1):
-            if inp[0]=='multitag':
-                func([' '.join(inp[1:])])
-            else:
-                func(inp[1:])
-        else:
-            print "Running function"
-            func()
-            #except:
-            #print "Internal Error, is your syntax correct?"
+
+        print "Running function"
+        func()
+        #except:
+        #print "Internal Error, is your syntax correct?"
     elif(inp[0]=='quit' or inp[0]=='q'):
         print "Exiting!"
         break;

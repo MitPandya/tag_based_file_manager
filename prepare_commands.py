@@ -117,9 +117,9 @@ def autotag(inp):
                 tag_vs_files[extension]=[]
             if(file not in tag_vs_files[extension]):
                 tag_vs_files[extension].append(file)
-        file = os.path.abspath(file)
-        if(file not in tag_vs_files[extension]):
-            tag_vs_files[extension].append(file)
+            file = os.path.abspath(file)
+            if(file not in tag_vs_files[extension]):
+                tag_vs_files[extension].append(file)
         print "Added: ",file,"with tag: ",extension
 
         #RAKE keywords generation
@@ -143,6 +143,14 @@ def autotag(inp):
     outputfile.close()
     return
 
+def multitag(inp):
+    for dirname, dirnames, filenames in os.walk(inp[0]):
+        # print path to all filenames.
+        for filename in filenames:
+            autotag(dirname+'\\'+filename)
+    return
+
+
 """System calls"""
 def sys_call(inp):
     try:
@@ -159,21 +167,31 @@ def stat():
     return
  
 
+"""CLEANING TAG DICTIONARY"""
+def cleanup():
+    print "Cleaning Up ..."
+    outputfile = open('tag_vs_files_dictionary.pkl', 'w')
+    d = dict()
+    cPickle.dump(d, outputfile)
+    outputfile.close()
+    return
 
 
 list = []
 list.append(('help',marshal.dumps(help.func_code)))
-list.append(('l',marshal.dumps(look.func_code)))
+list.append(('look',marshal.dumps(look.func_code)))
 list.append(('U',marshal.dumps(look.func_code)))
+list.append(('union',marshal.dumps(look.func_code)))
 list.append(('isect',marshal.dumps(intersection.func_code)))
 list.append(('I',marshal.dumps(intersection.func_code)))
 list.append(('add',marshal.dumps(add.func_code)))
 list.append(('sys',marshal.dumps(sys_call.func_code)))
-list.append(('!',marshal.dumps(sys_call.func_code)))
+#list.append(('!',marshal.dumps(sys_call.func_code)))
 list.append(('stats',marshal.dumps(stat.func_code)))
 #Added for tag_based_file_manager
 list.append(('autotag',marshal.dumps(autotag.func_code)))
-list.append(('multitag',marshal.dumps(look.func_code)))
+#list.append(('multitag',marshal.dumps(multitag.func_code)))
+list.append(('cleartags',marshal.dumps(cleanup.func_code)))
 
 
 myDict = dict(list)

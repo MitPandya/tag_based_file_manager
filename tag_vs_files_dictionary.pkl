@@ -24,3325 +24,3325 @@ p12
 (lp13
 S'C:\\bharat\\Work\\OneDrive - NCSU\\github\\tag_based_file_manager\\sample\\junit_license.txt'
 p14
-asS'propagation includes copying'
+asS'facilities'
 p15
 (lp16
 g4
-asS'facilities'
+asS'version published'
 p17
 (lp18
 g4
-asS'version published'
+asS'expressly set'
 p19
 (lp20
-g4
-asS'compliance'
+g14
+asS'copyleft license'
 p21
 (lp22
-g14
-asS'expressly set'
+g4
+asS'suitable separate entity'
 p23
 (lp24
 g14
-asS'copyleft license'
+asS'contributions'
 p25
 (lp26
-g4
-asS'suitable separate entity'
-p27
-(lp28
-g14
-asS'contributions'
-p29
-(lp30
 g14
 asS'developers working'
+p27
+(lp28
+g4
+asS'require recipients'
+p29
+(lp30
+g4
+asS'ancillary propagation'
 p31
 (lp32
 g4
-asS'ancillary propagation'
+asS'work based'
 p33
 (lp34
 g4
-asS'work based'
+asS'executable\nwork'
 p35
 (lp36
 g4
-asS'executable\nwork'
+asS'knowingly relying'
 p37
 (lp38
 g4
-asS'knowingly relying'
+asS'obligations'
 p39
 (lp40
 g4
-asS'rights granted hereunder'
+ag14
+asS'program'
 p41
 (lp42
 g14
-asS'program'
+asS'permanently'
 p43
 (lp44
-g14
-asS'permanently'
+g4
+asS'specific operating system'
 p45
 (lp46
 g4
-asS'specific operating system'
+asS'significant mode'
 p47
 (lp48
 g4
-asS'significant mode'
+asS'include'
 p49
 (lp50
-g4
-asS'details'
+g14
+asS'disclaiming warranty'
 p51
 (lp52
 g4
-asS'include'
+asS'systematic\npattern'
 p53
 (lp54
-g14
-asS'disclaiming warranty'
+g4
+asS'publicly perform'
 p55
 (lp56
-g4
-asS'recipient'
+g14
+asS'gnu affero general public license'
 p57
 (lp58
-g14
-asS'pay'
+g4
+asS'infringement'
 p59
 (lp60
 g14
-asS'systematic\npattern'
+asS'initial contributor'
 p61
 (lp62
-g4
-asS'publicly perform'
+g14
+asS'copyright holder explicitly'
 p63
 (lp64
-g14
-asS'gnu affero general public license'
+g4
+asS'grant\npatent sublicenses'
 p65
 (lp66
 g4
-asS'infringement'
+asS'medium customarily'
 p67
 (lp68
 g14
-asS'initial contributor'
+asS'advised'
 p69
 (lp70
 g14
-asS'copyright holder explicitly'
+asS'peer-to-peer transmission'
 p71
 (lp72
 g4
-asS'grant\npatent sublicenses'
+asS'affect'
 p73
 (lp74
-g4
-asS'medium customarily'
+g14
+asS'29 june 2007\n\n copyright'
 p75
 (lp76
-g14
-asS'advised'
+g4
+asS'condition'
 p77
 (lp78
 g14
-asS'peer-to-peer transmission'
+asS'satisfy simultaneously'
 p79
 (lp80
 g4
-asS'interface presents'
+asS'authorization keys'
 p81
 (lp82
 g4
-asS'29 june 2007\n\n copyright'
+asS'assumes sole responsibility'
 p83
 (lp84
-g4
-asS'special'
+g14
+asS'including revisions'
 p85
 (lp86
-g4
-ag14
-asS'satisfy simultaneously'
+g14
+asS'applicable'
 p87
 (lp88
 g4
-asS'authorization keys'
+asS'place\nadditional permissions'
 p89
 (lp90
 g4
-asS'assumes sole responsibility'
+asS'patent\nlicense'
 p91
 (lp92
-g14
-asS'including revisions'
+g4
+asS'deny users access'
 p93
 (lp94
-g14
-asS'applicable'
+g4
+asS'add information'
 p95
 (lp96
 g4
-asS'place\nadditional permissions'
+asS'makes performance claims'
 p97
 (lp98
-g4
-asS'patent\nlicense'
+g14
+asS'disclaimer'
 p99
 (lp100
-g4
-asS'deny users access'
+g14
+asS'copyrighted'
 p101
 (lp102
-g4
-asS'affect'
+g14
+asS'direct'
 p103
 (lp104
 g14
-asS'add information'
+asS'licensed'
 p105
 (lp106
 g4
-asS'makes performance claims'
+asS'author attributions'
 p107
 (lp108
-g14
-asS'disclaimer'
+g4
+asS'downstream recipients'
 p109
 (lp110
-g14
-asS'protect'
+g4
+asS'include additions'
 p111
 (lp112
-g4
-asS'participate'
+g14
+asS'conveying verbatim copies'
 p113
 (lp114
-g14
-asS'direct'
+g4
+asS'licenses'
 p115
 (lp116
-g14
-asS'licensed'
+g4
+ag14
+asS'copyrightable work licensed'
 p117
 (lp118
 g4
-asS'author attributions'
+asS'section'
 p119
 (lp120
-g4
-asS'downstream recipients'
+g14
+asS'license document'
 p121
 (lp122
 g4
-asS'include additions'
+asS'specifically designed'
 p123
 (lp124
-g14
-asS'licenses'
+g4
+asS'version'
 p125
 (lp126
 g4
 ag14
-asS'copyrightable work licensed'
+asS'recipient automatically\nreceives'
 p127
 (lp128
 g4
-asS'section'
+asS'public statement'
 p129
 (lp130
-g14
-asS'license document'
+g4
+asS'public'
 p131
 (lp132
 g4
-asS'specifically designed'
+asS'exercise'
 p133
 (lp134
-g4
-asS'version'
+g14
+asS'original licensors'
 p135
 (lp136
 g4
-ag14
-asS'household purposes'
+asS'reasonable means\nprior'
 p137
 (lp138
 g4
-asS'public statement'
+asS'commercial'
 p139
 (lp140
-g4
-asS'public'
+g14
+asS'option\nremove'
 p141
 (lp142
 g4
-asS'exercise'
+asS'grants recipient'
 p143
 (lp144
 g14
-asS'original licensors'
+asS'strict liability'
 p145
 (lp146
-g4
-asS'reasonable means\nprior'
+g14
+asS'reasonable cost'
 p147
 (lp148
 g4
-asS'commercial'
+asS'possibility'
 p149
 (lp150
 g14
-asS'option\nremove'
+asS'reasonable ways'
 p151
 (lp152
 g4
-asS'grants recipient'
+asS'patent applicable'
 p153
 (lp154
 g14
-asS'strict liability'
+asS'expressly granted'
 p155
 (lp156
 g14
-asS'reasonable cost'
+asS'jury trial'
 p157
 (lp158
-g4
-asS'possibility'
+g14
+asS'implied including'
 p159
 (lp160
 g14
-asS'reasonable ways'
+asS'applicable terms'
 p161
 (lp162
 g4
-asS'patent applicable'
+asS'expressly'
 p163
 (lp164
 g14
-asS'expressly granted'
+asS'alleged intellectual property infringement'
 p165
 (lp166
 g14
-asS'jury trial'
+asS'infringe'
 p167
 (lp168
-g14
-asS'implied including'
-p169
-(lp170
-g14
-asS'applicable terms'
-p171
-(lp172
-g4
-asS'expressly'
-p173
-(lp174
-g14
-asS'alleged intellectual property infringement'
-p175
-(lp176
-g14
-asS'infringe'
-p177
-(lp178
 g4
 ag14
 asS'limit operation'
+p169
+(lp170
+g4
+asS'special requirements'
+p171
+(lp172
+g4
+asS'informs licensees'
+p173
+(lp174
+g14
+asS'published'
+p175
+(lp176
+g14
+asS'action'
+p177
+(lp178
+g14
+asS'physically performing'
 p179
 (lp180
 g4
-asS'special requirements'
+asS'enforcing compliance'
 p181
 (lp182
 g4
-asS'informs licensees'
+asS'party grants'
 p183
 (lp184
-g14
-asS'published'
+g4
+asS'source conveyed'
 p185
 (lp186
-g14
-asS'action'
+g4
+asS'interactive\n    interfaces'
 p187
 (lp188
-g14
-asS'physically performing'
+g4
+asS'control'
 p189
 (lp190
 g4
-asS'enforcing compliance'
+ag14
+asS'elect'
 p191
 (lp192
-g4
-asS'party grants'
+g14
+asS'secure'
 p193
 (lp194
-g4
-asS'york'
+g14
+asS'requiring'
 p195
 (lp196
-g14
-asS'interactive\n    interfaces'
+g4
+asS'tangible personal property'
 p197
 (lp198
 g4
-asS'control'
+asS'general public licenses'
 p199
 (lp200
 g4
-ag14
-asS'elect'
+asS'gnu lesser general\npublic license'
 p201
 (lp202
-g14
-asS'secure'
-p203
-(lp204
-g14
-asS'requiring'
-p205
-(lp206
-g4
-asS'tangible personal property'
-p207
-(lp208
-g4
-asS'general public licenses'
-p209
-(lp210
-g4
-asS'gnu lesser general\npublic license'
-p211
-(lp212
 g4
 asS'merging organizations'
+p203
+(lp204
+g4
+asS'apply'
+p205
+(lp206
+g14
+asS'txt'
+p207
+(lp208
+S'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\eclipse_license.txt'
+p209
+aS'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\jaxb_license.txt'
+p210
+aS'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\junit_license.txt'
+p211
+aS'sample\\junit_license.txt'
+p212
+ag14
+asS'modified versions'
 p213
 (lp214
 g4
-asS'apply'
+asS'case prevented'
 p215
 (lp216
-g14
-asS'txt'
+g4
+asS'anti-circumvention law'
 p217
 (lp218
-S'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\eclipse_license.txt'
+g4
+asS'reasonable manner'
 p219
-aS'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\jaxb_license.txt'
-p220
-aS'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\junit_license.txt'
+(lp220
+g14
+asS'provide support service'
 p221
-aS'sample\\junit_license.txt'
-p222
-ag14
-asS'modified versions'
+(lp222
+g4
+asS'computer network'
 p223
 (lp224
 g4
-asS'case prevented'
+asS'copyright\nholders'
 p225
 (lp226
 g4
-asS'anti-circumvention law'
+asS'distributing'
 p227
 (lp228
-g4
-asS'reasonable manner'
-p229
-(lp230
-g14
-asS'provide support service'
-p231
-(lp232
-g4
-asS'computer network'
-p233
-(lp234
-g4
-asS'copyright\nholders'
-p235
-(lp236
-g4
-asS'distributing'
-p237
-(lp238
 g14
 asS'assert copyright'
-p239
-(lp240
+p229
+(lp230
 g4
 asS'6'
-(lp241
+(lp231
 g14
 asS'survive'
-p242
-(lp243
+p232
+(lp233
 g14
 asS'implied license'
+p234
+(lp235
+g4
+asS'recipient receives'
+p236
+(lp237
+g14
+asS'commercial distribution \n\ncommercial distributors'
+p238
+(lp239
+g14
+asS'specifically granted'
+p240
+(lp241
+g4
+asS'copyright\nholder fails'
+p242
+(lp243
+g4
+asS'distribute verbatim copies'
 p244
 (lp245
 g4
-asS'recipient receives'
+asS'durable physical medium\n    customarily'
 p246
 (lp247
-g14
-asS'commercial distribution \n\ncommercial distributors'
-p248
-(lp249
-g14
-asS'specifically granted'
-p250
-(lp251
-g4
-asS'copyright\nholder fails'
-p252
-(lp253
-g4
-asS'distribute verbatim copies'
-p254
-(lp255
-g4
-asS'durable physical medium\n    customarily'
-p256
-(lp257
 g4
 asS'rights granted'
-p258
-(lp259
+p248
+(lp249
 g4
 ag14
 asS'entity transaction'
+p250
+(lp251
+g4
+asS'initiate litigation'
+p252
+(lp253
+g4
+asS'individual works permit'
+p254
+(lp255
+g4
+asS'validity'
+p256
+(lp257
+g14
+asS'cooperate'
+p258
+(lp259
+g14
+asS'object code form means'
 p260
 (lp261
 g4
-asS'initiate litigation'
+asS'transaction transferring control'
 p262
 (lp263
 g4
-asS'individual works permit'
+asS'terminal interaction'
 p264
 (lp265
 g4
-asS'validity'
+asS'copyright license set'
 p266
 (lp267
 g14
-asS'cooperate'
+asS'iii'
 p268
 (lp269
 g14
-asS'object code form means'
+asS'expressly stated'
 p270
 (lp271
-g4
-asS'program specifies'
+g14
+asS'hardware'
 p272
 (lp273
-g4
-asS'transaction transferring control'
+g14
+asS'forbid\ncircumvention'
 p274
 (lp275
 g4
-asS'actual'
+asS'counterclaim'
 p276
 (lp277
 g14
-asS'copyright license set'
+asS'ibm'
 p278
 (lp279
 g14
-asS'iii'
+asS'rights'
 p280
 (lp281
 g14
-asS'expressly stated'
+asS'work'
 p282
 (lp283
-g14
-asS'party waives'
-p284
-(lp285
-g14
-asS'counterclaim'
-p286
-(lp287
-g14
-asS'ibm'
-p288
-(lp289
-g14
-asS'rights'
-p290
-(lp291
-g14
-asS'work'
-p292
-(lp293
 g4
 asS'modified'
-p294
-(lp295
+p284
+(lp285
 g4
 ag14
 asS'program errors'
-p296
-(lp297
+p286
+(lp287
 g14
 asS'reproduce'
+p288
+(lp289
+g14
+asS'install'
+p290
+(lp291
+g4
+asS'separately received'
+p292
+(lp293
+g4
+asS'effectively\nstate'
+p294
+(lp295
+g4
+asS'irrevocable provided'
+p296
+(lp297
+g4
+asS'intellectual property rights needed'
 p298
 (lp299
 g14
-asS'install'
+asS'appropriately publish'
 p300
 (lp301
 g4
-asS'separately received'
+asS'claim'
 p302
 (lp303
-g4
-asS'effectively\nstate'
+g14
+asS'reasonable efforts'
 p304
 (lp305
 g4
-asS'irrevocable provided'
+asS'reserved'
 p306
 (lp307
-g4
-asS'obtain'
+g14
+asS'secondarily liable'
 p308
 (lp309
-g14
-asS'intellectual property rights needed'
+g4
+asS'expressly\nprovided'
 p310
 (lp311
-g14
-asS'appropriately publish'
+g4
+asS'independent\nworks'
 p312
 (lp313
 g4
-asS'claim'
+asS'purposes'
 p314
 (lp315
-g14
-asS'reasonable efforts'
+g4
+asS'accept'
 p316
 (lp317
-g4
-asS'reserved'
+g14
+asS'states'
 p318
 (lp319
 g14
-asS'apply local law'
+asS'extent caused'
 p320
 (lp321
-g4
-asS'expressly\nprovided'
+g14
+asS'licensed patents'
 p322
 (lp323
-g4
-asS'independent\nworks'
+g14
+asS'finally terminates'
 p324
 (lp325
 g4
-asS'purposes'
+asS'information'
 p326
 (lp327
 g4
-asS'accept'
+asS'implied warranties'
 p328
 (lp329
-g14
-asS'states'
-p330
-(lp331
-g14
-asS'extent caused'
-p332
-(lp333
-g14
-asS'licensed patents'
-p334
-(lp335
-g14
-asS'finally terminates'
-p336
-(lp337
-g4
-asS'information'
-p338
-(lp339
-g4
-asS'implied warranties'
-p340
-(lp341
 g4
 ag14
 asS'requirements'
-p342
-(lp343
+p330
+(lp331
 g14
 asS'gnu gpl protect'
-p344
-(lp345
+p332
+(lp333
 g4
 asS'make payment'
-p346
-(lp347
+p334
+(lp335
 g4
 asS'resulting copyright'
-p348
-(lp349
+p336
+(lp337
 g4
-asS'purpose'
-p350
-(lp351
+asS'acts'
+p338
+(lp339
 g14
-asS'means'
-p352
-(lp353
-g4
-ag14
 asS'damage'
-p354
-(lp355
+p340
+(lp341
 g14
 asS'general public'
-p356
-(lp357
+p342
+(lp343
 g4
 asS'1'
-(lp358
+(lp344
 g14
 asS'reinstated'
-p359
-(lp360
+p345
+(lp346
 g4
-asS'prepare derivative works'
-p361
-(lp362
+asS'responsibilities'
+p347
+(lp348
 g14
 asS'agreement steward reserves'
-p363
-(lp364
+p349
+(lp350
+g14
+asS'distributed subject'
+p351
+(lp352
 g14
 asS'contractual assumptions directly impose'
+p353
+(lp354
+g4
+asS'common public license'
+p355
+(lp356
+g14
+asS'source code needed'
+p357
+(lp358
+g4
+asS'practicable'
+p359
+(lp360
+g14
+asS'free software foundation'
+p361
+(lp362
+g4
+asS'product'
+p363
+(lp364
+g4
+ag14
+asS'}\n    copyright'
 p365
 (lp366
 g4
-asS'common public license'
+asS'private copy'
 p367
 (lp368
-g14
-asS'source code needed'
-p369
-(lp370
-g4
-asS'1 library'
-p371
-(lp372
-g14
-asS'product'
-p373
-(lp374
-g4
-ag14
-asS'express'
-p375
-(lp376
-g14
-asS'contributor version'
-p377
-(lp378
 g4
 asS'intended'
+p369
+(lp370
+g14
+asS'copyright disclaimer'
+p371
+(lp372
+g4
+asS'intellectual property laws'
+p373
+(lp374
+g14
+asS'general-purpose tools'
+p375
+(lp376
+g4
+asS'contributions distributed'
+p377
+(lp378
+g14
+asS'date'
 p379
 (lp380
 g14
-asS'copyright disclaimer'
+asS'data'
 p381
 (lp382
 g4
-asS'intellectual property laws'
+ag14
+asS'liability'
 p383
 (lp384
-g14
-asS'cease'
-p385
-(lp386
-g14
-asS'contributions distributed'
-p387
-(lp388
-g14
-asS'date'
-p389
-(lp390
-g14
-asS'data'
-p391
-(lp392
-g4
-ag14
-asS'court order'
-p393
-(lp394
-g4
-asS'covered works'
-p395
-(lp396
-g4
-asS'liability'
-p397
-(lp398
 g4
 ag14
 asS'unlimited\npermission'
-p399
-(lp400
+p385
+(lp386
 g4
 asS'intellij idea installation home'
+p387
+(lp388
+g14
+asS'royalty-free copyright license'
+p389
+(lp390
+g14
+asS'provide'
+p391
+(lp392
+g4
+asS'exact copy'
+p393
+(lp394
+g4
+asS'program non-free'
+p395
+(lp396
+g4
+asS'mere interaction'
+p397
+(lp398
+g4
+asS'pay'
+p399
+(lp400
+g14
+asS'user product means'
 p401
 (lp402
-g14
-asS'grant'
+g4
+asS'definitions'
 p403
 (lp404
 g14
-asS'royalty-free copyright license'
+asS'details type `show'
 p405
 (lp406
-g14
-asS'provide'
+g4
+asS'legal permission'
 p407
 (lp408
 g4
-asS'exact copy'
+asS'order'
 p409
 (lp410
-g4
-asS'program non-free'
+g14
+asS'conditions stated'
 p411
 (lp412
 g4
-asS'mere interaction'
+asS'program originate'
 p413
 (lp414
-g4
-asS'prominent item'
+g14
+asS'operations'
 p415
 (lp416
-g4
-asS'user product means'
+g14
+asS'intellectual property'
 p417
 (lp418
-g4
-asS'definitions'
+g14
+asS'physical product'
 p419
 (lp420
-g14
-asS'details type `show'
+g4
+asS'entity'
 p421
 (lp422
-g4
-asS'legal permission'
+g14
+asS'legal rights'
 p423
 (lp424
 g4
-asS'order'
+asS'publicly display'
 p425
 (lp426
 g14
-asS'conditions stated'
+asS'{project}  copyright'
 p427
 (lp428
 g4
-asS'program originate'
+asS'interface presents'
 p429
 (lp430
-g14
-asS'operations'
+g4
+asS'interactive user interface displays'
 p431
 (lp432
-g14
-asS'receives'
+g4
+asS'earlier work'
 p433
 (lp434
 g4
-ag14
-asS'acts'
+asS'window system'
 p435
 (lp436
-g14
-asS'intellectual property'
+g4
+asS'legal notices'
 p437
 (lp438
-g14
-asS'physical product'
+g4
+asS'personal'
 p439
 (lp440
 g4
-asS'entity'
+asS'version number'
 p441
 (lp442
-g14
-asS'combinations'
+g4
+asS'prepare derivative works'
 p443
 (lp444
 g14
-asS'publicly display'
+asS'writing'
 p445
 (lp446
 g14
-asS'{project}  copyright'
+asS'tort'
 p447
 (lp448
-g4
-asS'program constitutes recipient'
+g14
+asS'choose'
 p449
 (lp450
 g14
-asS'interactive user interface displays'
+asS'install\nmodified object code'
 p451
 (lp452
 g4
-asS'earlier work'
+asS'covered'
 p453
 (lp454
 g4
-asS'window system'
+ag14
+asS'alter'
 p455
 (lp456
-g4
-asS'legal notices'
+g14
+asS'recipient relating'
 p457
 (lp458
-g4
-asS'personal'
+g14
+asS'including negligence'
 p459
 (lp460
-g4
-asS'version number'
+g14
+asS'run\nmodified versions'
 p461
 (lp462
 g4
-asS'assurances'
+asS'means copyright-'
 p463
 (lp464
-g14
-asS'responsibilities'
+g4
+asS'combination'
 p465
 (lp466
 g14
-asS'writing'
+asS'losses relating'
 p467
 (lp468
 g14
-asS'tort'
+asS'sufficient copyright rights'
 p469
 (lp470
 g14
-asS'condition'
+asS'distribute copies'
 p471
 (lp472
-g14
-asS'install\nmodified object code'
-p473
-(lp474
-g4
-asS'covered'
-p475
-(lp476
-g4
-ag14
-asS'alter'
-p477
-(lp478
-g14
-asS'recipient relating'
-p479
-(lp480
-g14
-asS'including negligence'
-p481
-(lp482
-g14
-asS'separate modules'
-p483
-(lp484
-g14
-asS'run\nmodified versions'
-p485
-(lp486
-g4
-asS'copying'
-p487
-(lp488
-g4
-asS'combination'
-p489
-(lp490
-g14
-asS'3'
-(lp491
-g14
-asS'losses relating'
-p492
-(lp493
-g14
-asS'sufficient copyright rights'
-p494
-(lp495
-g14
-asS'distribute copies'
-p496
-(lp497
 g4
 ag14
 asS'framework'
-p498
-(lp499
+p473
+(lp474
 g14
 asS'recognized standards body'
-p500
-(lp501
+p475
+(lp476
 g4
 asS'conveying modified source versions'
-p502
-(lp503
+p477
+(lp478
 g4
-asS'initial agreement steward'
-p504
-(lp505
+asS'party waives'
+p479
+(lp480
 g14
 asS'free software\nfoundation'
-p506
-(lp507
+p481
+(lp482
 g4
 asS'provision'
-p508
-(lp509
+p483
+(lp484
 g14
 asS'discriminatory\npatent license'
-p510
-(lp511
+p485
+(lp486
 g4
 asS'carry prominent notices stating'
-p512
-(lp513
+p487
+(lp488
 g4
 asS'unmodified program'
-p514
-(lp515
+p489
+(lp490
+g4
+asS'commands'
+p491
+(lp492
 g4
 asS'limiting liability differently'
-p516
-(lp517
+p493
+(lp494
 g4
 asS'non-permissive terms added'
-p518
-(lp519
+p495
+(lp496
+g4
+asS'executable work include'
+p497
+(lp498
 g4
 asS'subsequent contributor'
-p520
-(lp521
+p499
+(lp500
 g14
 asS'fitness'
-p522
-(lp523
+p501
+(lp502
 g14
 asS'works based'
-p524
-(lp525
+p503
+(lp504
 g4
-asS'subprograms'
-p526
-(lp527
+asS'permit incorporating'
+p505
+(lp506
 g4
 asS'interruption'
-p528
-(lp529
+p507
+(lp508
 g14
 asS'warranty protection'
-p530
-(lp531
+p509
+(lp510
 g4
 asS'copyrighted material'
-p532
-(lp533
+p511
+(lp512
 g4
 asS'parties\nreceiving'
-p534
-(lp535
+p513
+(lp514
 g4
 asS'conveying non-source forms'
-p536
-(lp537
+p515
+(lp516
 g4
 asS'specific copy'
-p538
-(lp539
+p517
+(lp518
 g4
 asS'system library'
-p540
-(lp541
+p519
+(lp520
 g4
-asS'remains free\nsoftware'
-p542
-(lp543
+asS'covered works'
+p521
+(lp522
 g4
 asS'contributor includes'
-p544
-(lp545
+p523
+(lp524
 g14
 asS'local legal effect'
-p546
-(lp547
+p525
+(lp526
 g4
 asS'special password'
-p548
-(lp549
+p527
+(lp528
 g4
 asS'single\ncombined work'
-p550
-(lp551
+p529
+(lp530
 g4
 asS'year'
-p552
-(lp553
+p531
+(lp532
 g14
 asS'substantially'
-p554
-(lp555
+p533
+(lp534
 g4
-asS'private copy'
-p556
-(lp557
+asS'contributor version'
+p535
+(lp536
 g4
 asS'prominently visible\nfeature'
-p558
-(lp559
+p537
+(lp538
 g4
-asS'proprietary programs'
-p560
-(lp561
+asS'special'
+p539
+(lp540
 g4
-asS'court requires'
-p562
-(lp563
-g14
+ag14
 asS'defend'
-p564
-(lp565
+p541
+(lp542
 g14
 asS'enforceable'
-p566
-(lp567
+p543
+(lp544
 g14
 asS'publish'
-p568
-(lp569
+p545
+(lp546
 g14
 asS'acting'
-p570
-(lp571
+p547
+(lp548
 g14
 asS'source code form'
-p572
-(lp573
+p549
+(lp550
 g4
 ag14
 asS'reasonable period'
-p574
-(lp575
+p551
+(lp552
 g14
 asS'offering access'
-p576
-(lp577
+p553
+(lp554
 g4
 asS'execute modified versions'
-p578
-(lp579
+p555
+(lp556
 g4
 asS'numbered\nversion'
-p580
-(lp581
+p557
+(lp558
 g4
 asS'recipient institutes patent litigation'
-p582
-(lp583
+p559
+(lp560
 g14
 asS'notice stating'
-p584
-(lp585
+p561
+(lp562
+g4
+asS'semiconductor masks'
+p563
+(lp564
 g4
 asS'copyright holder'
-p586
-(lp587
+p565
+(lp566
 g4
 asS'theory'
-p588
-(lp589
+p567
+(lp568
 g14
 asS'party based'
-p590
-(lp591
+p569
+(lp570
 g4
-asS'state'
-p592
-(lp593
-g14
-asS'authorizes'
-p594
-(lp595
+asS'written'
+p571
+(lp572
+g4
+asS'make modifications exclusively'
+p573
+(lp574
 g4
 asS'free'
-p596
-(lp597
+p575
+(lp576
 g4
 asS'qualify'
-p598
-(lp599
+p577
+(lp578
 g14
-asS'source conveyed'
-p600
-(lp601
+asS'york'
+p579
+(lp580
+g14
+asS'forbid circumvention'
+p581
+(lp582
 g4
 asS'remainder'
-p602
-(lp603
+p583
+(lp584
 g14
 asS'designated\n    place'
-p604
-(lp605
+p585
+(lp586
 g4
 asS'object code form'
-p606
-(lp607
+p587
+(lp588
 g4
 ag14
 asS'definition'
+p589
+(lp590
+g4
+asS'interaction'
+p591
+(lp592
+g4
+asS'full notice'
+p593
+(lp594
+g4
+asS'user commands'
+p595
+(lp596
+g4
+asS'determining'
+p597
+(lp598
+g14
+asS'impose'
+p599
+(lp600
+g4
+asS'automatically terminate'
+p601
+(lp602
+g4
+asS'7'
+(lp603
+g14
+asS'effectively excludes'
+p604
+(lp605
+g14
+asS'manner\nconsistent'
+p606
+(lp607
+g4
+asS'standard interface'
 p608
 (lp609
 g4
-asS'interaction'
+asS'fundamentally incompatible'
 p610
 (lp611
 g4
-asS'full notice'
+asS'appropriateness'
 p612
 (lp613
-g4
-asS'user commands'
+g14
+asS'facilitate'
 p614
 (lp615
-g4
-asS'determining'
+g14
+asS'assign'
 p616
 (lp617
 g14
-asS'impose'
+asS'general-purpose computers'
 p618
 (lp619
 g4
-asS'automatically terminate'
+asS'purpose'
 p620
 (lp621
-g4
-asS'7'
-(lp622
 g14
-asS'effectively excludes'
-p623
-(lp624
-g14
-asS'manner\nconsistent'
-p625
-(lp626
-g4
-asS'standard interface'
-p627
-(lp628
-g4
-asS'fundamentally incompatible'
-p629
-(lp630
-g4
-asS'merchantability'
-p631
-(lp632
-g14
-asS'appropriateness'
-p633
-(lp634
-g14
-asS'facilitate'
-p635
-(lp636
-g14
-asS'assign'
-p637
-(lp638
-g14
-asS'general-purpose computers'
-p639
-(lp640
-g4
-asS'abuse occurs'
-p641
-(lp642
-g4
 asS'source fixed'
-p643
-(lp644
+p622
+(lp623
 g4
 asS'source\nincludes interface definition files'
-p645
-(lp646
+p624
+(lp625
 g4
 asS'dynamically\nlinked subprograms'
-p647
-(lp648
+p626
+(lp627
 g4
 asS'subsection 6d'
-p649
-(lp650
+p628
+(lp629
 g4
 asS'subsection 6b'
-p651
-(lp652
+p630
+(lp631
 g4
 asS'include claims'
-p653
-(lp654
+p632
+(lp633
 g4
 asS'gpl assures'
-p655
-(lp656
+p634
+(lp635
 g4
 asS'receive copies'
-p657
-(lp658
+p636
+(lp637
 g4
 asS'directly'
-p659
-(lp660
+p638
+(lp639
 g4
 asS'preferred form'
-p661
-(lp662
+p640
+(lp641
 g4
 asS'gpl'
-p663
-(lp664
+p642
+(lp643
 g4
 asS'differ'
-p665
-(lp666
+p644
+(lp645
 g14
 asS'limited'
-p667
-(lp668
+p646
+(lp647
 g14
 asS'lib/junit'
-p669
-(lp670
+p648
+(lp649
 g14
 asS'lawsuits'
-p671
-(lp672
+p650
+(lp651
 g14
 asS'patent infringement'
-p673
-(lp674
+p652
+(lp653
 g4
 asS'non-source\nform'
-p675
-(lp676
+p654
+(lp655
 g4
 asS'needed'
-p677
-(lp678
+p656
+(lp657
 g4
 asS'section 10\nmakes'
-p679
-(lp680
+p658
+(lp659
 g4
-asS'requiring preservation'
-p681
-(lp682
+asS'program specifies'
+p660
+(lp661
 g4
-asS'received notice'
-p683
-(lp684
+asS'practical works'
+p662
+(lp663
 g4
 asS'service marks'
-p685
-(lp686
+p664
+(lp665
 g4
 asS'royalty-free\npatent license'
-p687
-(lp688
+p666
+(lp667
 g4
 asS'modification follow'
-p689
-(lp690
+p668
+(lp669
 g4
 asS'acquire'
-p691
-(lp692
+p670
+(lp671
 g14
 asS'serve'
-p693
-(lp694
+p672
+(lp673
 g14
 asS'covered work authorizing'
-p695
-(lp696
+p674
+(lp675
 g4
 asS'legal power'
-p697
-(lp698
+p676
+(lp677
 g4
 asS'general public license'
-p699
-(lp700
+p678
+(lp679
 g4
 asS'copyright holders'
-p701
-(lp702
+p680
+(lp681
 g4
 asS'holder'
-p703
-(lp704
+p682
+(lp683
 g4
 asS'restricting circumvention'
-p705
-(lp706
+p684
+(lp685
 g4
 asS'shared libraries'
-p707
-(lp708
+p686
+(lp687
 g4
-asS'contributor grants'
-p709
-(lp710
+asS'court order'
+p688
+(lp689
 g4
-ag14
 asS'express permission'
-p711
-(lp712
+p690
+(lp691
 g4
 asS'server hosts'
-p713
-(lp714
+p692
+(lp693
 g4
 asS'accordance'
-p715
-(lp716
+p694
+(lp695
 g14
-asS'recipient understands'
-p717
-(lp718
-g14
+asS'patent license'
+p696
+(lp697
+g4
+ag14
 asS'attributed erroneously'
-p719
-(lp720
+p698
+(lp699
 g4
 asS'stated\nconditions'
-p721
-(lp722
+p700
+(lp701
 g4
 asS'limiting'
-p723
-(lp724
+p702
+(lp703
+g4
+asS'license acknowledges'
+p704
+(lp705
 g4
 asS'sole purpose'
-p725
-(lp726
+p706
+(lp707
 g4
 asS'reproduction'
-p727
-(lp728
+p708
+(lp709
 g14
 asS'solely'
-p729
-(lp730
+p710
+(lp711
 g4
 asS'displays'
-p731
-(lp732
+p712
+(lp713
 g4
 asS'license explicitly affirms'
-p733
-(lp734
+p714
+(lp715
 g4
 asS'copy likewise'
-p735
-(lp736
+p716
+(lp717
 g4
 asS'work released'
-p737
-(lp738
+p718
+(lp719
+g4
+asS'copyright permission'
+p720
+(lp721
 g4
 asS'unavailability'
-p739
-(lp740
+p722
+(lp723
 g14
-asS'medium'
-p741
-(lp742
+asS'work means'
+p724
+(lp725
 g4
 asS'contributions set'
-p743
-(lp744
+p726
+(lp727
 g14
 asS'manner'
-p745
-(lp746
+p728
+(lp729
 g4
 ag14
 asS'closely approximates'
-p747
-(lp748
+p730
+(lp731
 g4
-asS'trademark law'
-p749
-(lp750
-g4
+asS'assurances'
+p732
+(lp733
+g14
 asS'sell'
-p751
-(lp752
+p734
+(lp735
 g14
 asS'promptly notify'
-p753
-(lp754
+p736
+(lp737
 g14
 asS'gnu general\npublic license'
-p755
-(lp756
+p738
+(lp739
 g4
-asS'form'
-p757
-(lp758
+asS'free\nprograms'
+p740
+(lp741
 g4
 asS'action arose'
-p759
-(lp760
+p742
+(lp743
 g14
-asS'including scripts'
-p761
-(lp762
-g4
+asS'equipment'
+p744
+(lp745
+g14
 asS'legal action'
-p763
-(lp764
+p746
+(lp747
 g14
 asS'responsibility'
-p765
-(lp766
+p748
+(lp749
 g14
-asS'subject'
-p767
-(lp768
+asS'performance claims'
+p750
+(lp751
 g14
 asS'worldwide'
-p769
-(lp770
+p752
+(lp753
 g14
 asS'added'
-p771
-(lp772
+p754
+(lp755
 g4
 ag14
-asS'behalf'
-p773
-(lp774
-g14
 asS'agreement terminate'
-p775
-(lp776
+p756
+(lp757
 g14
 asS'measures'
-p777
-(lp778
+p758
+(lp759
 g4
 asS'patent claims\nowned'
-p779
-(lp780
+p760
+(lp761
 g4
 asS'automatically extended'
-p781
-(lp782
+p762
+(lp763
 g4
 asS'conditions added'
-p783
-(lp784
+p764
+(lp765
 g4
 asS'present version'
-p785
-(lp786
+p766
+(lp767
 g4
 asS'system libraries'
-p787
-(lp788
+p768
+(lp769
 g4
 asS'received copies'
-p789
-(lp790
+p770
+(lp771
 g4
-asS'normal form'
-p791
-(lp792
+asS'threatened constantly'
+p772
+(lp773
 g4
 asS'2'
-(lp793
+(lp774
 g14
 asS'software patents'
+p775
+(lp776
+g4
+asS'doc'
+p777
+(lp778
+S'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\dir2\\asr.doc'
+p779
+asS'party patent license'
+p780
+(lp781
+g14
+asS'sale'
+p782
+(lp783
+g14
+asS'cross-claim'
+p784
+(lp785
+g14
+asS'limitation lost profits'
+p786
+(lp787
+g14
+asS'se'
+p788
+(lp789
+g14
+asS'larger program'
+p790
+(lp791
+g4
+asS'enforceability'
+p792
+(lp793
+g14
+asS'license grants'
 p794
 (lp795
 g4
-asS'doc'
+asS'additional permissions'
 p796
 (lp797
-S'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\dir2\\asr.doc'
-p798
-asS'party patent license'
-p799
-(lp800
-g14
-asS'sale'
-p801
-(lp802
-g14
-asS'cross-claim'
-p803
-(lp804
-g14
-asS'limitation lost profits'
-p805
-(lp806
-g14
-asS'se'
-p807
-(lp808
-g14
-asS'larger program'
-p809
-(lp810
-g4
-asS'enforceability'
-p811
-(lp812
-g14
-asS'license grants'
-p813
-(lp814
-g4
-asS'additional permissions'
-p815
-(lp816
 g4
 asS'contractual assumptions'
-p817
-(lp818
+p798
+(lp799
 g4
 asS'solely responsible'
-p819
-(lp820
+p800
+(lp801
 g14
 asS'publicly\ndocumented'
-p821
-(lp822
+p802
+(lp803
 g4
 asS'readily accessible means'
-p823
-(lp824
+p804
+(lp805
 g4
 asS'show'
-p825
-(lp826
+p806
+(lp807
 g4
-asS'obligations'
-p827
-(lp828
-g4
-ag14
+asS'rights granted hereunder'
+p808
+(lp809
+g14
 asS'major\ncomponent'
-p829
-(lp830
+p810
+(lp811
 g4
 asS'terminate'
-p831
-(lp832
+p812
+(lp813
 g14
 asS'licenses granted'
-p833
-(lp834
+p814
+(lp815
 g14
 asS'bring'
-p835
-(lp836
+p816
+(lp817
 g14
 asS'control flow'
-p837
-(lp838
+p818
+(lp819
 g4
-asS'copyrighted'
-p839
-(lp840
+asS'participate'
+p820
+(lp821
 g14
 asS'recipient agrees'
-p841
-(lp842
+p822
+(lp823
 g14
 asS'liability provided'
-p843
-(lp844
+p824
+(lp825
 g4
 asS'agrees'
-p845
-(lp846
+p826
+(lp827
 g14
-asS'recipient automatically\nreceives'
-p847
-(lp848
+asS'household purposes'
+p828
+(lp829
 g4
-asS'make'
+asS'litigation'
+p830
+(lp831
+g14
+asS'rendered inaccurate'
+p832
+(lp833
+g4
+asS'copy'
+p834
+(lp835
+g14
+asS'based'
+p836
+(lp837
+g4
+asS'knowledge'
+p838
+(lp839
+g14
+asS'copyright'
+p840
+(lp841
+g4
+asS'title'
+p842
+(lp843
+g14
+asS'trademark law'
+p844
+(lp845
+g4
+asS'distributed'
+p846
+(lp847
+g14
+asS'3'
+(lp848
+g14
+asS'related settlement negotiations'
 p849
 (lp850
 g14
-asS'litigation'
+asS'substantial\ncommercial'
 p851
 (lp852
-g14
-asS'rendered inaccurate'
-p853
-(lp854
-g4
-asS'copy'
-p855
-(lp856
-g14
-asS'based'
-p857
-(lp858
-g4
-asS'knowledge'
-p859
-(lp860
-g14
-asS'copyright'
-p861
-(lp862
-g4
-asS'title'
-p863
-(lp864
-g14
-asS'distributed'
-p865
-(lp866
-g14
-asS'interactive mode'
-p867
-(lp868
-g4
-asS'related settlement negotiations'
-p869
-(lp870
-g14
-asS'substantial\ncommercial'
-p871
-(lp872
 g4
 asS'8'
-(lp873
+(lp853
 g14
 asS'distributes'
-p874
-(lp875
+p854
+(lp855
 g14
 asS'applicable laws'
+p856
+(lp857
+g14
+asS'convey covered works'
+p858
+(lp859
+g4
+asS'product\n    model'
+p860
+(lp861
+g4
+asS'means'
+p862
+(lp863
+g4
+ag14
+asS'express'
+p864
+(lp865
+g14
+asS'contributor grants'
+p866
+(lp867
+g4
+ag14
+asS'initial code'
+p868
+(lp869
+g14
+asS'combinations'
+p870
+(lp871
+g14
+asS'program constitutes recipient'
+p872
+(lp873
+g14
+asS'permits relicensing'
+p874
+(lp875
+g4
+asS'conjunction'
 p876
 (lp877
 g14
-asS'convey covered works'
+asS'comply'
 p878
 (lp879
-g4
-asS'product\n    model'
+g14
+asS'source file'
 p880
 (lp881
 g4
-asS'short\nnotice'
+asS'consequential damages arising'
 p882
 (lp883
 g4
-asS'}\n    copyright'
+asS'technological measures'
 p884
 (lp885
 g4
-asS'general-purpose tools'
+asS'continued functioning'
 p886
 (lp887
 g4
-asS'initial code'
+asS'copyright notice'
 p888
 (lp889
-g14
-asS'legal rights'
+g4
+asS'indemnified contributor'
 p890
 (lp891
-g4
-asS'permit linking proprietary applications'
+g14
+asS'subprograms'
 p892
 (lp893
 g4
-asS'permits relicensing'
+asS'remove'
 p894
 (lp895
-g4
-asS'conjunction'
+g14
+asS'deemed part'
 p896
 (lp897
-g14
-asS'comply'
+g4
+asS'making exceptions'
 p898
 (lp899
-g14
-asS'source file'
+g4
+asS'2007 free software foundation'
 p900
 (lp901
 g4
-asS'consequential damages arising'
+asS'work licensed'
 p902
 (lp903
 g4
-asS'technological measures'
+asS'including'
 p904
 (lp905
-g4
-asS'copyright notice'
+g14
+asS'implication'
 p906
 (lp907
-g4
-asS'indemnified contributor'
+g14
+asS'future\nversions'
 p908
 (lp909
-g14
-asS'permit incorporating'
+g4
+asS'doubtful cases'
 p910
 (lp911
 g4
-asS'remove'
+asS'violation prior'
 p912
 (lp913
-g14
-asS'deemed part'
+g4
+asS'necessarily infringed'
 p914
 (lp915
-g4
-asS'making exceptions'
+g14
+asS'entire risk'
 p916
 (lp917
 g4
-asS'2007 free software foundation'
+asS'end users'
 p918
 (lp919
-g4
-asS'work licensed'
+g14
+asS'gnu general public license\n                       version 3'
 p920
 (lp921
 g4
-asS'including'
+asS'commercial product offering'
 p922
 (lp923
 g14
-asS'implication'
+asS'version 3'
 p924
 (lp925
-g14
-asS'future\nversions'
+g4
+asS'collectively'
 p926
 (lp927
-g4
-asS'doubtful cases'
+g14
+asS'defense'
 p928
 (lp929
-g4
-asS'violation prior'
+g14
+asS'result'
 p930
 (lp931
-g4
-asS'user'
+g14
+asS'identifiable patents'
 p932
 (lp933
 g4
-asS'necessarily infringed'
+asS'propagate covered works'
 p934
 (lp935
-g14
-asS'end users'
+g4
+asS'modified object\ncode'
 p936
 (lp937
-g14
-asS'gnu general public license\n                       version 3'
+g4
+asS'subject'
 p938
 (lp939
-g4
-asS'commercial product offering'
+g14
+asS'fails'
 p940
 (lp941
 g14
-asS'version 3'
+asS'read\n<http'
 p942
 (lp943
 g4
-asS'collectively'
+asS'applicable law'
 p944
 (lp945
-g14
-asS'defense'
+g4
+ag14
+asS'subroutine library'
 p946
 (lp947
-g14
-asS'result'
+g4
+asS'user'
 p948
 (lp949
-g14
-asS'identifiable patents'
+g4
+asS'patents applied'
 p950
 (lp951
 g4
-asS'propagate covered works'
+asS'kind'
 p952
 (lp953
-g4
-asS'modified object\ncode'
+g14
+asS'state'
 p954
 (lp955
-g4
-asS'performance claims'
+g14
+asS'import'
 p956
 (lp957
 g14
-asS'fails'
+asS'conditions'
 p958
 (lp959
 g14
-asS'read\n<http'
+asS'interfaces'
 p960
 (lp961
 g4
-asS'section 7 apply'
+asS'risks'
 p962
 (lp963
-g4
-asS'subroutine library'
+g14
+asS'source code'
 p964
 (lp965
 g4
-asS'forbid circumvention'
+ag14
+asS'notice'
 p966
 (lp967
 g4
-asS'patents applied'
+asS'terms'
 p968
 (lp969
-g4
-asS'kind'
+g14
+asS'permitted solely'
 p970
 (lp971
-g14
-asS'written'
+g4
+asS'modify'
 p972
 (lp973
-g4
-asS'import'
+g14
+asS'intellectual property rights'
 p974
 (lp975
 g14
-asS'conditions'
+asS'prior'
 p976
 (lp977
-g14
-asS'intellectual property rights'
+g4
+asS'separately written license'
 p978
 (lp979
-g14
-asS'risks'
+g4
+asS'free programs'
 p980
 (lp981
-g14
-asS'source code'
+g4
+asS'interface'
 p982
 (lp983
 g4
-ag14
-asS'notice'
+asS'license\ngiving'
 p984
 (lp985
 g4
-asS'terms'
+asS'lawsuit'
 p986
 (lp987
 g14
-asS'permitted solely'
+asS'originates'
 p988
 (lp989
-g4
-asS'modify'
+g14
+asS'received'
 p990
 (lp991
 g14
-asS'interfaces'
+asS'protect'
 p992
 (lp993
 g4
-asS'separately written license'
+asS'non-exclusive'
 p994
 (lp995
-g4
-asS'free programs'
+g14
+asS'license'
 p996
 (lp997
 g4
-asS'interface'
+ag14
+asS'notice indicating'
 p998
 (lp999
 g4
-asS'license\ngiving'
+asS'patent claim'
 p1000
 (lp1001
 g4
-asS'lawsuit'
+asS'contract'
 p1002
 (lp1003
 g14
-asS'originates'
+asS'parties provide'
 p1004
 (lp1005
-g14
-asS'received'
+g4
+asS'propagation'
 p1006
 (lp1007
+g4
+asS'connection'
+p1008
+(lp1009
 g14
-asS'c'
-(lp1008
-S'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\example.c'
-p1009
-asS'non-exclusive'
+asS'customer support'
 p1010
 (lp1011
-g14
-asS'license'
+g4
+asS'receives'
 p1012
 (lp1013
 g4
 ag14
-asS'notice indicating'
+asS'contribution'
 p1014
 (lp1015
-g4
-asS'patent claim'
+g14
+asS'expense'
 p1016
 (lp1017
-g4
-asS'contract'
+g14
+asS'contributor represents'
 p1018
 (lp1019
 g14
-asS'parties provide'
+asS'material terms'
 p1020
 (lp1021
-g4
-asS'propagation'
+g14
+asS'wipo copyright treaty adopted'
 p1022
 (lp1023
 g4
-asS'connection'
+asS'add terms'
 p1024
 (lp1025
-g14
-asS'customer support'
+g4
+asS'fashion requiring copyright permission'
 p1026
 (lp1027
 g4
-asS'reasonable means'
+asS'complies'
 p1028
 (lp1029
-g4
-asS'contribution'
+g14
+asS'notices stating'
 p1030
 (lp1031
-g14
-asS'expense'
+g4
+asS'documentation distributed'
 p1032
 (lp1033
 g14
-asS'contributor represents'
+asS'extent permitted'
 p1034
 (lp1035
-g14
-asS'material terms'
+g4
+asS'losses'
 p1036
 (lp1037
 g14
-asS'add terms'
+asS'permit linking proprietary applications'
 p1038
 (lp1039
 g4
-asS'fashion requiring copyright permission'
+asS'installation information'
 p1040
 (lp1041
 g4
-asS'complies'
+asS'covered work material governed'
 p1042
 (lp1043
-g14
-asS'notices stating'
+g4
+asS'royalty-free patent license'
 p1044
 (lp1045
-g4
-asS'documentation distributed'
+g14
+asS'similar laws prohibiting'
 p1046
 (lp1047
-g14
-asS'ii'
+g4
+asS'effective technological\nmeasure'
 p1048
 (lp1049
-g14
-asS'extent permitted'
+g4
+asS'single transaction'
 p1050
 (lp1051
 g4
-asS'respect'
+asS'infringes'
 p1052
 (lp1053
 g14
-asS'installation information'
+asS'basis'
 p1054
 (lp1055
-g4
-asS'covered work material governed'
+g14
+asS'addition'
 p1056
 (lp1057
-g4
-asS'royalty-free patent license'
+g14
+asS'exercising rights'
 p1058
 (lp1059
-g14
-asS'effective technological\nmeasure'
+g4
+asS'acceptance'
 p1060
 (lp1061
-g4
-asS'contributors'
+g14
+asS'copies'
 p1062
 (lp1063
-g14
-asS'infringes'
+g4
+asS'parties hereto'
 p1064
 (lp1065
 g14
-asS'basis'
+asS'separable portion'
 p1066
 (lp1067
-g14
-asS'addition'
+g4
+asS'software inside'
 p1068
 (lp1069
-g14
-asS'exercising rights'
+g4
+asS'gnu general public license'
 p1070
 (lp1071
 g4
-asS'acceptance'
+asS'offered'
 p1072
 (lp1073
 g14
-asS'copies'
+asS'implied warranty'
 p1074
 (lp1075
 g4
-asS'offered'
-p1076
-(lp1077
-g14
-asS'parties hereto'
+asS'c'
+(lp1076
+S'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\example.c'
+p1077
+asS'subsequent recipients'
 p1078
 (lp1079
 g14
-asS'separable portion'
+asS'behalf'
 p1080
 (lp1081
-g4
-asS'software inside'
+g14
+asS'license fee'
 p1082
 (lp1083
 g4
-asS'choose'
+asS'granted'
 p1084
 (lp1085
-g14
-asS'files'
+g4
+asS'case'
 p1086
 (lp1087
-g4
-asS'gnu general public license'
+g14
+asS'copies made'
 p1088
 (lp1089
 g4
-asS'receive source code'
+asS'gnu'
 p1090
 (lp1091
 g4
-asS'implied warranty'
+asS'non-infringement'
 p1092
 (lp1093
-g4
-asS'commands'
+g14
+asS'including contributions'
 p1094
 (lp1095
-g4
-asS'subsequent recipients'
+g14
+asS'offer spare parts'
 p1096
 (lp1097
-g14
-asS'durable physical\n    medium customarily'
+g4
+asS'additional obligations'
 p1098
 (lp1099
 g4
-asS'license fee'
+asS'installation information provided'
 p1100
 (lp1101
 g4
-asS'case'
+asS'future versions'
 p1102
 (lp1103
-g14
-asS'copies made'
+g4
+asS'----------------------------------------------------------------------------------------------------\n\ncommon public license version 0'
 p1104
 (lp1105
-g4
-asS'gnu'
+g14
+asS'covered work'
 p1106
 (lp1107
 g4
-asS'non-infringement'
+asS'original version'
 p1108
 (lp1109
-g14
-asS'including contributions'
+g4
+asS'party retains'
 p1110
 (lp1111
-g14
-asS'offer spare parts'
+g4
+asS'provide installation information'
 p1112
 (lp1113
 g4
-asS'installation information provided'
+asS'originator'
 p1114
 (lp1115
-g4
-asS'future versions'
+g14
+asS'permanently\nreinstated'
 p1116
 (lp1117
 g4
-asS'----------------------------------------------------------------------------------------------------\n\ncommon public license version 0'
+asS'compliance'
 p1118
 (lp1119
 g14
-asS'covered work'
+asS'specific products'
 p1120
 (lp1121
 g4
-asS'provide installation information'
+asS'legal actions brought'
 p1122
 (lp1123
-g4
-asS'originator'
-p1124
-(lp1125
-g14
-asS'permanently\nreinstated'
-p1126
-(lp1127
-g4
-asS'losses'
-p1128
-(lp1129
-g14
-asS'specific products'
-p1130
-(lp1131
-g4
-asS'legal actions brought'
-p1132
-(lp1133
 g14
 asS'jpg'
+p1124
+(lp1125
+S'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\people.jpg'
+p1126
+asS'iv'
+p1127
+(lp1128
+g14
+asS'ii'
+p1129
+(lp1130
+g14
+asS'avi'
+p1131
+(lp1132
+S'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\test.avi'
+p1133
+asS'apply local law'
 p1134
 (lp1135
-S'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\people.jpg'
-p1136
-asS'iv'
-p1137
-(lp1138
-g14
-asS'prohibiting misrepresentation'
-p1139
-(lp1140
 g4
-asS'avi'
-p1141
-(lp1142
-S'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\test.avi'
-p1143
-asS'secondarily liable'
+asS'software distributed'
+p1136
+(lp1137
+g14
+asS'business partners'
+p1138
+(lp1139
+g14
+asS'publicity purposes'
+p1140
+(lp1141
+g4
+asS'party'
+p1142
+(lp1143
+g14
+asS'relevant source files'
 p1144
 (lp1145
 g4
-asS'including direct'
+asS'object code work'
 p1146
 (lp1147
-g14
-asS'business partners'
+g4
+asS'grant'
 p1148
 (lp1149
 g14
-asS'publicity purposes'
+asS'patent'
 p1150
 (lp1151
 g4
-asS'party'
+ag14
+asS'prominent item'
 p1152
 (lp1153
-g14
-asS'relevant source files'
+g4
+asS'make'
 p1154
 (lp1155
-g4
-asS'object code work'
+g14
+asS'express\nagreement'
 p1156
 (lp1157
 g4
-asS'prior'
+asS'junit 3'
 p1158
 (lp1159
-g4
-asS'patent'
+g14
+asS'resulting litigation'
 p1160
 (lp1161
-g4
-ag14
-asS'semiconductor masks'
+g14
+asS'damages'
 p1162
 (lp1163
 g4
-asS'granted'
+ag14
+asS'copying'
 p1164
 (lp1165
 g4
-asS'express\nagreement'
+asS'initial agreement steward'
 p1166
 (lp1167
-g4
-asS'junit 3'
+g14
+asS'reasonable means'
 p1168
 (lp1169
-g14
-asS'access'
+g4
+asS'offers warranties related'
 p1170
 (lp1171
-g4
-asS'resulting litigation'
+g14
+asS'user product'
 p1172
 (lp1173
-g14
-asS'damages'
+g4
+asS'court requires'
 p1174
 (lp1175
-g4
-ag14
-asS'means copyright-'
+g14
+asS'contributor disclaims'
 p1176
 (lp1177
-g4
-asS'require recipients'
+g14
+asS'losses sustained'
 p1178
 (lp1179
 g4
-asS'offers warranties related'
+asS'distribution medium'
 p1180
 (lp1181
-g14
-asS'user product'
+g4
+asS'section 2'
 p1182
 (lp1183
-g4
-asS'automatic licensing'
+g14
+asS'conveying occurs'
 p1184
 (lp1185
 g4
-asS'contributor disclaims'
+asS'abuse occurs'
 p1186
 (lp1187
-g14
-asS'losses sustained'
+g4
+asS'precise terms'
 p1188
 (lp1189
 g4
-asS'distribution medium'
+asS'received notice'
 p1190
 (lp1191
 g4
-asS'section 2'
+asS'ofc'
 p1192
 (lp1193
-g14
-asS'conveying occurs'
-p1194
-(lp1195
-g4
-asS'{year}  {fullname}'
-p1196
-(lp1197
-g4
-asS'precise terms'
-p1198
-(lp1199
-g4
-asS'practical works'
-p1200
-(lp1201
-g4
-asS'ofc'
-p1202
-(lp1203
 S'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\dir1\\hello.ofc'
-p1204
+p1194
 asS'actual knowledge'
-p1205
-(lp1206
+p1195
+(lp1196
 g4
 asS'transaction'
+p1197
+(lp1198
+g4
+asS'regenerate automatically'
+p1199
+(lp1200
+g4
+asS'programs'
+p1201
+(lp1202
+g14
+asS'alleging'
+p1203
+(lp1204
+g14
+asS'person'
+p1205
+(lp1206
+g14
+asS'supports equivalent copying facilities'
 p1207
 (lp1208
 g4
-asS'regenerate automatically'
+asS'costs'
 p1209
 (lp1210
-g4
-asS'programs'
+g14
+asS'restrict development'
 p1211
 (lp1212
-g14
-asS'alleging'
+g4
+asS'claims'
 p1213
 (lp1214
 g14
-asS'person'
+asS'normal form'
 p1215
 (lp1216
-g14
-asS'supports equivalent copying facilities'
+g4
+asS'arising'
 p1217
 (lp1218
-g4
-asS'costs'
+g14
+asS'modified version'
 p1219
 (lp1220
-g14
-asS'restrict development'
+g4
+asS'distribute'
 p1221
 (lp1222
 g4
-asS'claims'
+ag14
+asS'convey individual copies'
 p1223
 (lp1224
-g14
-asS'threatened constantly'
+g4
+asS'obtain'
 p1225
 (lp1226
-g4
-asS'arising'
+g14
+asS'applicable section 7\n    additional terms'
 p1227
 (lp1228
-g14
-asS'modified version'
+g4
+asS'patent claims licensable'
 p1229
 (lp1230
-g4
-asS'distribute'
+g14
+asS'previous versions'
 p1231
 (lp1232
 g4
-ag14
-asS'convey individual copies'
+asS'cease'
 p1233
 (lp1234
-g4
-asS'control copyright'
+g14
+asS'recipient understands'
 p1235
 (lp1236
-g4
-asS'applicable section 7\n    additional terms'
+g14
+asS'exemplary'
 p1237
 (lp1238
-g4
-asS'patent claims licensable'
+g14
+asS'omissions'
 p1239
 (lp1240
 g14
-asS'previous versions'
+asS'reasonable legal notices'
 p1241
 (lp1242
 g4
-asS'identify'
+asS'actions infringe copyright'
 p1243
 (lp1244
-g14
-asS'patent license'
+g4
+asS'fixed term'
 p1245
 (lp1246
 g4
-ag14
-asS'exemplary'
+asS'short\nnotice'
 p1247
 (lp1248
-g14
-asS'omissions'
+g4
+asS'licenses granted hereunder'
 p1249
 (lp1250
 g14
-asS'reasonable legal notices'
+asS'intimate data communication'
 p1251
 (lp1252
 g4
-asS'actions infringe copyright'
+asS'accompanying program'
 p1253
 (lp1254
-g4
-asS'continued functioning'
+g14
+asS'covered work\noccurring solely'
 p1255
 (lp1256
 g4
-asS'licenses granted hereunder'
+asS'manner consistent'
 p1257
 (lp1258
-g14
-asS'intimate data communication'
+g4
+asS'reinstated permanently'
 p1259
 (lp1260
 g4
-asS'accompanying program'
+asS'exercising'
 p1261
 (lp1262
 g14
-asS'equipment'
+asS'exclusively'
 p1263
 (lp1264
-g14
-asS'covered work\noccurring solely'
+g4
+asS'separate modules'
 p1265
 (lp1266
-g4
-asS'manner consistent'
+g14
+asS'source'
 p1267
 (lp1268
 g4
-asS'reinstated permanently'
-p1269
-(lp1270
-g4
-asS'exercising'
-p1271
-(lp1272
-g14
-asS'exclusively'
-p1273
-(lp1274
-g4
-asS'conveying verbatim copies'
-p1275
-(lp1276
-g4
-asS'source'
-p1277
-(lp1278
-g4
 asS'4'
-(lp1279
+(lp1269
 g14
 asS'major essential component'
+p1270
+(lp1271
+g4
+asS'permissions'
+p1272
+(lp1273
+g4
+asS'applicable patent law'
+p1274
+(lp1275
+g4
+asS'written offer'
+p1276
+(lp1277
+g4
+asS'reformed'
+p1278
+(lp1279
+g14
+asS'details'
 p1280
 (lp1281
 g4
-asS'permissions'
+asS'gnu gpl'
 p1282
 (lp1283
 g4
-asS'written offer'
+asS'additional permissions\napply'
 p1284
 (lp1285
 g4
-asS'reformed'
+asS'including direct'
 p1286
 (lp1287
 g14
-asS'party retains'
+asS'provisions'
 p1288
 (lp1289
-g4
-asS'gnu gpl'
+g14
+asS'entire program remains governed'
 p1290
 (lp1291
 g4
-asS'additional permissions\napply'
+asS'covered\nwork results'
 p1292
 (lp1293
 g4
-asS'software distributed'
+asS'discriminatory'
 p1294
 (lp1295
-g14
-asS'provisions'
+g4
+asS'problems arise substantially'
 p1296
 (lp1297
-g14
-asS'loss'
+g4
+asS'physical distribution medium'
 p1298
 (lp1299
-g14
-asS'covered\nwork results'
+g4
+asS'adversely affects'
 p1300
 (lp1301
 g4
-asS'discriminatory'
+asS'recipient'
 p1302
 (lp1303
-g4
-asS'problems arise substantially'
+g14
+asS'loss'
 p1304
 (lp1305
-g4
-asS'physical distribution medium'
+g14
+asS'modifications'
 p1306
 (lp1307
 g4
-asS'adversely affects'
+asS'commercial contributor'
 p1308
 (lp1309
-g4
-asS'applicable copyright law'
+g14
+asS'distributing software'
 p1310
 (lp1311
 g4
-asS'entire program remains governed'
+asS'offer equivalent access'
 p1312
 (lp1313
 g4
-asS'modifications'
+asS'incidental'
 p1314
 (lp1315
-g4
-asS'commercial contributor'
+g14
+asS'copyright notices contained'
 p1316
 (lp1317
 g14
-asS'distributing software'
+asS'applicable law fulfilling obligations'
 p1318
 (lp1319
 g4
-asS'offer equivalent access'
+asS'server'
 p1320
 (lp1321
 g4
-asS'incidental'
+asS'separately'
 p1322
 (lp1323
-g14
-asS'copyright notices contained'
+g4
+asS'continue'
 p1324
 (lp1325
 g14
-asS'applicable law fulfilling obligations'
+asS'requirements apply'
 p1326
 (lp1327
 g4
-asS'server'
+asS'entity based'
 p1328
 (lp1329
-g4
-asS'separately'
+g14
+asS'covered work\nconveyed'
 p1330
 (lp1331
 g4
-asS'continue'
+asS'numbered version'
 p1332
 (lp1333
-g14
-asS'interactive user interfaces'
+g4
+asS'source files'
 p1334
 (lp1335
 g4
-asS'requirements apply'
+asS'copyright holder notifies'
 p1336
 (lp1337
 g4
-asS'entity based'
+asS'provision valid'
 p1338
 (lp1339
 g14
-asS'covered work\nconveyed'
+asS'library'
 p1340
 (lp1341
 g4
-asS'numbered version'
+asS'license versions'
 p1342
 (lp1343
 g4
-asS'source files'
+asS'avoid inconsistency'
 p1344
 (lp1345
-g4
-asS'copyright holder notifies'
+g14
+asS'software interchange'
 p1346
 (lp1347
 g4
-asS'provision valid'
+asS'respect'
 p1348
 (lp1349
 g14
-asS'library'
+asS'trade names'
 p1350
 (lp1351
 g4
-asS'license versions'
+asS'indirect'
 p1352
 (lp1353
-g4
-asS'avoid inconsistency'
+g14
+asS'consequential damages'
 p1354
 (lp1355
 g14
-asS'software interchange'
+asS'provided'
 p1356
 (lp1357
-g4
-asS'trade names'
+g14
+asS'nature extensions'
 p1358
 (lp1359
 g4
-asS'indirect'
+asS'party means'
 p1360
 (lp1361
-g14
-asS'consequential damages'
-p1362
-(lp1363
-g14
-asS'provided'
-p1364
-(lp1365
-g14
-asS'nature extensions'
-p1366
-(lp1367
-g4
-asS'party means'
-p1368
-(lp1369
 g4
 asS'/'
-(lp1370
+(lp1362
 g14
 asS'executable work runs'
+p1363
+(lp1364
+g4
+asS'relevant date'
+p1365
+(lp1366
+g4
+asS'type `show'
+p1367
+(lp1368
+g4
+asS'version permanently authorizes'
+p1369
+(lp1370
+g4
+asS'list meets'
 p1371
 (lp1372
 g4
-asS'relevant date'
+asS'warranties'
 p1373
 (lp1374
-g4
-asS'type `show'
+g14
+asS'programming language'
 p1375
 (lp1376
 g4
-asS'version permanently authorizes'
+asS'derivative works'
 p1377
 (lp1378
-g4
-asS'list meets'
+g14
+asS'defend claims'
 p1379
 (lp1380
-g4
-asS'warranties'
+g14
+asS'licensed hereunder'
 p1381
 (lp1382
 g14
-asS'programming language'
+asS'equivalent'
 p1383
 (lp1384
 g4
-asS'assumes'
+asS'making modifications'
 p1385
 (lp1386
-g14
-asS'derivative works'
+g4
+asS'agreement'
 p1387
 (lp1388
 g14
-asS'defend claims'
+asS'non-permissive additional terms'
 p1389
 (lp1390
-g14
-asS'licensed hereunder'
+g4
+asS'absolute waiver'
 p1391
 (lp1392
-g14
-asS'equivalent'
+g4
+asS'jar'
 p1393
 (lp1394
-g4
-asS'making modifications'
+g14
+asS'requirement modifies'
 p1395
 (lp1396
 g4
-asS'agreement'
+asS'pertinent obligations'
 p1397
 (lp1398
-g14
-asS'non-permissive additional terms'
+g4
+asS'permitted'
 p1399
 (lp1400
-g4
-asS'absolute waiver'
+g14
+asS'product received'
 p1401
 (lp1402
 g4
-asS'jar'
+asS'limitation'
 p1403
 (lp1404
 g14
-asS'requirement modifies'
+asS'works'
 p1405
 (lp1406
 g4
-asS'includes'
+asS'actual'
 p1407
 (lp1408
-g4
-ag14
-asS'permitted'
+g14
+asS'object code'
 p1409
 (lp1410
-g14
-asS'product received'
+g4
+asS'procuring conveyance'
 p1411
 (lp1412
 g4
-asS'limitation'
+asS'remain obligated'
 p1413
 (lp1414
-g14
-asS'works'
+g4
+asS'previous paragraph'
 p1415
 (lp1416
 g4
-asS'terminal interaction'
+asS'reviewing courts'
 p1417
 (lp1418
 g4
-asS'object code'
+asS'noncompliance'
 p1419
 (lp1420
-g4
-asS'procuring conveyance'
+g14
+asS'remains'
 p1421
 (lp1422
 g4
-asS'remain obligated'
+asS'1 library'
 p1423
 (lp1424
-g4
-asS'previous paragraph'
+g14
+asS'maintain\n    clear directions'
 p1425
 (lp1426
 g4
-asS'reviewing courts'
+asS'identify'
 p1427
 (lp1428
-g4
-asS'noncompliance'
+g14
+asS'liability accompanies'
 p1429
 (lp1430
-g14
-asS'remains'
+g4
+asS'permission'
 p1431
 (lp1432
 g4
-asS'practicable'
+asS'software'
 p1433
 (lp1434
-g14
-asS'maintain\n    clear directions'
-p1435
-(lp1436
-g4
-asS'liability accompanies'
-p1437
-(lp1438
-g4
-asS'permission'
-p1439
-(lp1440
-g4
-asS'software'
-p1441
-(lp1442
 g4
 ag14
 asS'warranty'
+p1435
+(lp1436
+g14
+asS'free program'
+p1437
+(lp1438
+g4
+asS'communication'
+p1439
+(lp1440
+g4
+asS'sections 2'
+p1441
+(lp1442
+g14
+asS'claims brought'
 p1443
 (lp1444
 g14
-asS'free program'
+asS'united states'
 p1445
 (lp1446
-g4
-asS'communication'
-p1447
-(lp1448
-g4
-asS'sections 2'
-p1449
-(lp1450
-g14
-asS'claims brought'
-p1451
-(lp1452
-g14
-asS'united states'
-p1453
-(lp1454
 g14
 asS'software exchange'
-p1455
-(lp1456
+p1447
+(lp1448
 g14
 asS'information required'
-p1457
-(lp1458
+p1449
+(lp1450
 g4
 asS'ppt'
-p1459
-(lp1460
+p1451
+(lp1452
 S'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\presentation2.ppt'
-p1461
+p1453
 aS'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\dir1\\mtech.ppt'
-p1462
+p1454
 aS'C:\\bharat\\Work\\OneDrive - NCSU\\CSC-591-BI\\tag_based_file_manager\\sample\\dir2\\prism.ppt'
-p1463
+p1455
 asS'contributor'
+p1456
+(lp1457
+g14
+asS'additions'
+p1458
+(lp1459
+g14
+asS'copyright law'
+p1460
+(lp1461
+g4
+asS'authorizes'
+p1462
+(lp1463
+g4
+asS'america'
 p1464
 (lp1465
 g14
-asS'additions'
+asS'additional'
 p1466
 (lp1467
-g14
-asS'copyright law'
+g4
+asS'publish revised'
 p1468
 (lp1469
 g4
-asS'make modifications exclusively'
+asS'transfer'
 p1470
 (lp1471
-g4
-asS'america'
+g14
+asS'unmodified'
 p1472
 (lp1473
-g14
-asS'additional'
+g4
+asS'contributors related'
 p1474
 (lp1475
-g4
-asS'publish revised'
+g14
+asS'interactive mode'
 p1476
 (lp1477
 g4
-asS'transfer'
+asS'specifically'
 p1478
 (lp1479
-g14
-asS'unmodified'
+g4
+asS'requiring preservation'
 p1480
 (lp1481
 g4
-asS'contributors related'
+asS'offer support'
 p1482
 (lp1483
-g14
-asS'specifically'
+g4
+asS'basic permissions'
 p1484
 (lp1485
 g4
-asS'legal\n    notices displayed'
+asS'notices'
 p1486
 (lp1487
 g4
-asS'offer support'
+asS'assumes'
 p1488
 (lp1489
-g4
-asS'basic permissions'
+g14
+asS'combined'
 p1490
 (lp1491
 g4
-asS'notices'
+ag14
+asS'files'
 p1492
 (lp1493
 g4
-asS'distributed subject'
+asS'automatic licensing'
 p1494
 (lp1495
-g14
-asS'combined'
+g4
+asS'medium'
 p1496
 (lp1497
 g4
-ag14
-asS'free software foundation'
+asS'effectively disclaims'
 p1498
 (lp1499
-g4
-asS'work means'
+g14
+asS'form'
 p1500
 (lp1501
 g4
-asS'effectively disclaims'
+asS'offer'
 p1502
 (lp1503
-g14
-asS'free\nprograms'
+g4
+ag14
+asS'including scripts'
 p1504
 (lp1505
 g4
-asS'offer'
+asS'network server'
 p1506
 (lp1507
 g4
-ag14
-asS'license acknowledges'
+asS'remains free\nsoftware'
 p1508
 (lp1509
 g4
-asS'network server'
+asS'failure'
 p1510
 (lp1511
-g4
-asS'similar laws prohibiting'
+g14
+asS'covered\nwork'
 p1512
 (lp1513
 g4
-asS'failure'
+asS'estoppel'
 p1514
 (lp1515
 g14
-asS'covered\nwork'
+asS'program prove defective'
 p1516
 (lp1517
 g4
-asS'estoppel'
+asS'filed'
 p1518
 (lp1519
 g14
-asS'program prove defective'
+asS'minimum extent'
 p1520
 (lp1521
-g4
-asS'filed'
-p1522
-(lp1523
-g14
-asS'minimum extent'
-p1524
-(lp1525
 g14
 asS'additional terms'
-p1526
-(lp1527
+p1522
+(lp1523
 g4
 asS'hypothetical commands `show'
+p1524
+(lp1525
+g4
+asS'made'
+p1526
+(lp1527
+g14
+asS'require acceptance'
 p1528
 (lp1529
 g4
-asS'made'
+asS'entire work'
 p1530
 (lp1531
-g14
-asS'require acceptance'
+g4
+asS'bundled'
 p1532
 (lp1533
-g4
-asS'entire work'
+g14
+asS'versions'
 p1534
 (lp1535
 g4
-asS'bundled'
+ag14
+asS'access'
 p1536
 (lp1537
-g14
-asS'versions'
+g4
+asS'attached'
 p1538
 (lp1539
-g4
-ag14
-asS'entire risk'
+g14
+asS'section 7 apply'
 p1540
 (lp1541
 g4
-asS'attached'
+asS'revised versions'
 p1542
 (lp1543
-g14
-asS'applicable law'
+g4
+asS'sublicense'
 p1544
 (lp1545
-g4
-ag14
-asS'revised versions'
+g14
+asS'circumvention'
 p1546
 (lp1547
 g4
-asS'sublicense'
+asS'distribution'
 p1548
 (lp1549
-g14
-asS'circumvention'
-p1550
-(lp1551
-g4
-asS'distribution'
-p1552
-(lp1553
 g4
 ag14
 asS'protecting users'
+p1550
+(lp1551
+g4
+asS'similar'
+p1552
+(lp1553
+g4
+asS'non-permissive'
 p1554
 (lp1555
 g4
-asS'similar'
+asS'prohibiting misrepresentation'
 p1556
 (lp1557
 g4
-asS'non-permissive'
+asS'excluding combinations'
 p1558
 (lp1559
-g4
-asS'wipo copyright treaty adopted'
+g14
+asS'effectively proprietary'
 p1560
 (lp1561
 g4
-asS'excluding combinations'
+asS'contributors'
 p1562
 (lp1563
 g14
-asS'effectively proprietary'
+asS'lost profits'
 p1564
 (lp1565
-g4
-asS'single transaction'
-p1566
-(lp1567
-g4
-asS'lost profits'
-p1568
-(lp1569
 g14
 asS'license agreement'
-p1570
-(lp1571
+p1566
+(lp1567
 g14
 asS'distinguishing version number'
-p1572
-(lp1573
+p1568
+(lp1569
 g4
 ag14
 asS'general'
-p1574
-(lp1575
+p1570
+(lp1571
 g4
 ag14
-asS'forbid\ncircumvention'
+asS'control copyright'
+p1572
+(lp1573
+g4
+asS'cure'
+p1574
+(lp1575
+g14
+asS'resulting work'
 p1576
 (lp1577
 g4
-asS'cure'
+asS'gpl requires'
 p1578
 (lp1579
-g14
-asS'governed'
+g4
+asS'object code interpreter'
 p1580
 (lp1581
 g4
-ag14
-asS'gpl requires'
+asS'official\nstandard defined'
 p1582
 (lp1583
 g4
-asS'object code interpreter'
+asS'propagation includes copying'
 p1584
 (lp1585
 g4
-asS'official\nstandard defined'
+asS'essential patent claims'
 p1586
 (lp1587
 g4
-asS'copyright permission'
+asS'stand ready'
 p1588
 (lp1589
 g4
-asS'essential patent claims'
+asS'free software'
 p1590
 (lp1591
 g4
-asS'stand ready'
+asS'agreement steward'
 p1592
 (lp1593
-g4
-asS'free software'
-p1594
-(lp1595
-g4
-asS'agreement steward'
-p1596
-(lp1597
 g14
 asS'invalid'
-p1598
-(lp1599
+p1594
+(lp1595
 g14
 asS'5'
-(lp1600
+(lp1596
 g14
-asS'fixed term'
+asS'proprietary programs'
+p1597
+(lp1598
+g4
+asS'gui interface'
+p1599
+(lp1600
+g4
+asS'receive source code'
 p1601
 (lp1602
 g4
-asS'gui interface'
+asS'applicable copyright law'
 p1603
 (lp1604
 g4
-asS'applicable patent law'
+asS'create potential liability'
 p1605
 (lp1606
-g4
-asS'create potential liability'
+g14
+asS'indemnify'
 p1607
 (lp1608
 g14
-asS'indemnify'
+asS'consumer product'
 p1609
 (lp1610
-g14
-asS'consumer product'
+g4
+asS'includes'
 p1611
 (lp1612
 g4
-asS'pertinent obligations'
+ag14
+asS'special danger'
 p1613
 (lp1614
 g4
-asS'special danger'
+asS'legal\n    notices displayed'
 p1615
 (lp1616
 g4
-asS'hardware'
+asS'merchantability'
 p1617
 (lp1618
 g14
-asS'original version'
+asS'included'
 p1619
 (lp1620
-g4
-asS'included'
+g14
+asS'aware'
 p1621
 (lp1622
 g14
-asS'aware'
+asS'unenforceable'
 p1623
 (lp1624
 g14
-asS'unenforceable'
+asS'paper mail'
 p1625
 (lp1626
-g14
-asS'paper mail'
+g4
+asS'grant rights'
 p1627
 (lp1628
 g4
-asS'grant rights'
+asS'civil liability'
 p1629
 (lp1630
 g4
-asS'civil liability'
+asS'entire program'
 p1631
 (lp1632
 g4
-asS'entire program'
+asS'`show'
 p1633
 (lp1634
 g4
-asS'`show'
+asS'interactive user interfaces'
 p1635
 (lp1636
 g4
-asS'executable work include'
+asS'patent licenses granted'
 p1637
 (lp1638
 g4
-asS'patent licenses granted'
+ag14
+asS'{year}  {fullname}'
 p1639
 (lp1640
 g4
-ag14
-asS'additional obligations'
+asS'required'
 p1641
 (lp1642
-g4
-asS'required'
+g14
+asS'governed'
 p1643
 (lp1644
-g14
-asS'resulting work'
+g4
+ag14
+asS'including warranties'
 p1645
 (lp1646
-g4
-asS'including warranties'
-p1647
-(lp1648
 g14
 asS'implied'
-p1649
-(lp1650
+p1647
+(lp1648
 g4
 ag14
 asS'time'
+p1649
+(lp1650
+g14
+asS'durable physical\n    medium customarily'
 p1651
 (lp1652
-g14
+g4
 asS'requiring indemnification'
 p1653
 (lp1654

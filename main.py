@@ -12,8 +12,8 @@ from RAKE import Rake
 tag_vs_files_dictfile = 'tag_vs_files_dictionary.pkl'
 print("Running prepare_commands. . .")
 call(["python","prepare_commands.py"])
-#print("Running generate_tag_vs_files. . .")
-#call(["python","generate_tag_vs_files.py"])
+print("Running generate_tag_vs_files. . .")
+call(["python","generate_tag_vs_files.py"])
 
 
 """
@@ -71,11 +71,13 @@ while(True):
     elif(inp[0] in commands):
         func = types.FunctionType(marshal.loads(commands[inp[0]]), globals(), "something")
         #try:
-
-        print "Running function"
-        func()
-        #except:
-        #print "Internal Error, is your syntax correct?"
+        if(len(inp)>1):
+            func(inp[1:])
+        else:
+            print "Running function"
+            func()
+            #except:
+            #print "Internal Error, is your syntax correct?"
     elif(inp[0]=='quit' or inp[0]=='q'):
         print "Exiting!"
         break;

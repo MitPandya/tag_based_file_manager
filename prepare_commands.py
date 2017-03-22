@@ -125,6 +125,7 @@ def autotag(inp):
     if(len(inp)<1):
         print "Please specify correct filename(s)"
         return
+    start_time = time.time()
     rake_object = Rake("rake\\SmartStoplist.txt")
     files = inp
     for file in files:
@@ -139,7 +140,7 @@ def autotag(inp):
             file = os.path.abspath(file)
             if(file not in tag_vs_files[extension]):
                 tag_vs_files[extension].append(file)
-        print "Added: ",file,"with tag: ",extension
+        #print "Added: ",file,"with tag: ",extension
 
         #RAKE keywords generation
         print "\nAdding Text analytic tags. . ."
@@ -160,6 +161,8 @@ def autotag(inp):
     outputfile = open('tag_vs_files_dictionary.pkl', 'wb')
     cPickle.dump(tag_vs_files, outputfile)
     outputfile.close()
+    end_time = time.time()
+    print("Execution Time - {0}".format(end_time-start_time))
     return
 
 def multitag(inp):

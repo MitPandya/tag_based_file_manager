@@ -1,20 +1,15 @@
 import cPickle
 import marshal
 import types
-import sys
-import numpy
-import os.path, time
+import os.path
 from subprocess import call
-import operator
-import textract
-from RAKE import Rake
+
 
 tag_vs_files_dictfile = 'tag_vs_files_dictionary.pkl'
 print("Running prepare_commands. . .")
 call(["python","prepare_commands.py"])
 print("Running generate_tag_vs_files. . .")
 call(["python","generate_tag_vs_files.py"])
-
 
 """
 ::: Something for pruning out the non-existing files :::

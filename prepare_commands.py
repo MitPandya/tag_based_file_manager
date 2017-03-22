@@ -3,14 +3,9 @@
 
 import cPickle
 import marshal
-import types
-import sys
-import numpy
 import os
 import os.path
 from subprocess import call
-#from RAKE import Rake
-import operator
 import textract
 
 """Help function"""
@@ -129,7 +124,7 @@ def autotag(inp):
     rake_object = Rake("rake\\SmartStoplist.txt")
     files = inp
     for file in files:
-    	print "\nAdding Doc Extension tag. . ."
+    	print "Adding %s. . ."%file
         fname,extension = os.path.splitext(file)
         extension = extension[1:].strip()
         if(extension!=''):
@@ -143,7 +138,7 @@ def autotag(inp):
         #print "Added: ",file,"with tag: ",extension
 
         #RAKE keywords generation
-        print "\nAdding Text analytic tags. . ."
+        #print "\nAdding Text analytic tags. . ."
         try:
         	text = textract.process(file)
         except:
@@ -156,7 +151,7 @@ def autotag(inp):
                 tag_vs_files[tag]=[]
             if file not in tag_vs_files[tag]:
                 tag_vs_files[tag].append(file)
-            print "Added: ",file,"with tag: ",tag
+            #print "Added: ",file,"with tag: ",tag
 
     outputfile = open('tag_vs_files_dictionary.pkl', 'wb')
     cPickle.dump(tag_vs_files, outputfile)
